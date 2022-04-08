@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  qr: ^2.0.0
+  qr: ^2.2.0
 
 dev_dependencies:
   flutter_test:
